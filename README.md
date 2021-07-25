@@ -8,4 +8,4 @@
 
 ## visit below link for proper installation:
 
-[a link](https://baidar-sabaoon.medium.com/react-native-pull-down-to-refresh-without-using-hooks-78c51bb6eae7 )
+[Step by Step installation process of "pull-down-to-refresh"](https://baidar-sabaoon.medium.com/react-native-pull-down-to-refresh-without-using-hooks-78c51bb6eae7 )
